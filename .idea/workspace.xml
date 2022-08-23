@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2af1c6f5-0419-47e1-acef-c03dcefd9b87" name="Changes" comment="">
+    <list default="true" id="2af1c6f5-0419-47e1-acef-c03dcefd9b87" name="Changes" comment="first folder solutions">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/CurrencyInUSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/armstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/inputNameGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/largestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First_Java/operator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/communityClassroom/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/communityClassroom/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/communityClassroom/leapyear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/communityClassroom/leapyear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/communityClassroom/multiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/communityClassroom/multiplicationTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +49,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.multiplicationTable">
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.communityClassroom.Sum" />
+  <component name="RunManager" selected="Application.First_Java.Palindrome">
+    <configuration name="First_Java.CurrencyInUSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_Java.CurrencyInUSD" />
       <module name="Kunal_Kushwaha_DSA_Bootcamp_Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.communityClassroom.*" />
+          <option name="PATTERN" value="First_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.communityClassroom.leapyear" />
+    <configuration name="First_Java.FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_Java.FibonacciSeries" />
       <module name="Kunal_Kushwaha_DSA_Bootcamp_Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.communityClassroom.*" />
+          <option name="PATTERN" value="First_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.communityClassroom.multiplicationTable" />
+    <configuration name="First_Java.Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_Java.Palindrome" />
       <module name="Kunal_Kushwaha_DSA_Bootcamp_Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.communityClassroom.*" />
+          <option name="PATTERN" value="First_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First_Java.largestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_Java.largestNumber" />
+      <module name="Kunal_Kushwaha_DSA_Bootcamp_Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="First_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="armstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_Java.armstrongNumber" />
+      <module name="Kunal_Kushwaha_DSA_Bootcamp_Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="First_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,9 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.multiplicationTable" />
-        <item itemvalue="Application.leapyear" />
-        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.First_Java.Palindrome" />
+        <item itemvalue="Application.armstrongNumber" />
+        <item itemvalue="Application.First_Java.FibonacciSeries" />
+        <item itemvalue="Application.First_Java.CurrencyInUSD" />
+        <item itemvalue="Application.First_Java.largestNumber" />
       </list>
     </recent_temporary>
   </component>
